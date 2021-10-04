@@ -7,10 +7,12 @@
 <p>Hi, my name is Jayden Leuciuc. I started developming my coding skills by creating custom projects. I plan on going to the University of Tennessee for Computer Science in the Spring of 2022 to reinforce my skills. I mainly focus on front-end development, but I am no stranger to the backend. </p>
 
 
-
-<img src="https://img.shields.io/website?label=jaydenleuciuc.com&style=for-the-badge&url=https%3A%2F%2FJaydenLeuciuc.com"></img>
-<a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FLeuciucJayden&screen_name=leuciucjayden">
-<img src="https://img.shields.io/twitter/follow/leuciucjayden?color=1DA1F2&logo=twitter&style=for-the-badge"></img></a>
+<a href="https://jaydenleuciuc.com" target="_blank">
+<img src="https://img.shields.io/website?label=jaydenleuciuc.com&style=for-the-badge&url=https%3A%2F%2FJaydenLeuciuc.com"/>
+</a>
+<a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FLeuciucJayden&screen_name=leuciucjayden" target="_blank">
+<img src="https://img.shields.io/twitter/follow/leuciucjayden?color=1DA1F2&logo=twitter&style=for-the-badge"/>
+</a>
 
           
 <h3>Goals For 2021 </h3>
