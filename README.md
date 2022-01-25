@@ -15,10 +15,11 @@
 </a>
 
           
-<h3>Goals For 2021 </h3>
+<h3>Goals For 2022 </h3>
 
-<p>I’m looking to collaborate with other developers</p>
-<p>Create youtube videos and make more connections</p>
+<p>I’m looking to collaborate with other developers and build connections</p>
+<p>Keep skills up-to-date by creating new projects</p>
+<p>Apply my skills to real-world applications through an internship/position</p>
 
 
 ### Languages
