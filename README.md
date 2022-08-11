@@ -4,26 +4,28 @@
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+Im+Jayden;Take+A+Look+Around&font=Fira%20Code&center=true&width=440&height=45&color=458BCC&vCenter=true&size=22"></a>
 
-<p>Hi, my name is Jayden Leuciuc. My creative outlet is developing clean, responsive websites. I am currently a computer science student at the University of Tennessee, but I started with custom projects on my own. I mainly focus on front-end web development, but I am no stranger to the backend. </p>
+<p>Hi, my name is Jayden Leuciuc. I am passionate about developing clean, responsive websites. I am a student developer at Knoxville Utilities Board and currently working on my bachelor degree of computer science at the University of Tennessee.</p>
 
-
-<a href="https://jaydenleuciuc.com" target="_blank">
-<img src="https://img.shields.io/website?label=jaydenleuciuc.com&style=for-the-badge&url=https%3A%2F%2FJaydenLeuciuc.com"/>
-</a>
 <p>
-<a href="https://twitter.com/leuciucjayden" target="_blank">
+          <a href="https://jaydenleuciuc.com" target="_blank">
+          <img src="https://img.shields.io/website?label=jaydenleuciuc.com&style=for-the-badge&url=https%3A%2F%2FJaydenLeuciuc.com"/>
+          </a>
+          <a href="https://www.linkedin.com/in/jayden-leuciuc" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+          </a>
+</p>
+
+<p>
+<!--<a href="https://twitter.com/leuciucjayden" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/jayden-leuciuc" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</a> -->
+
 </p>
           
 <h3>Goals For 2022 </h3>
 
-<p>I’m looking to collaborate with other developers and build connections</p>
-<p>Keep skills up-to-date by creating new projects</p>
-<p>Apply my skills to real-world applications through an internship/position</p>
+<p>Collaborate with other developers and build connections.</p>
+<p>Challenge myself to always be learning.</p>
 
 
 ### Languages/Frameworks
